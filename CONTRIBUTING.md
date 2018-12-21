@@ -13,9 +13,6 @@ We want to provide a free hosted solution for end users at [Market Demand Analys
 I would be very happy with collaborators for this project. I've been working with these concepts for many years using google keyword tool. 
 But have very little knowledge in programming. Altough I´ve made a working prototype of the project. Please contact me at thiagoc@gmail.com
 
-### Planned Stages
-a. Single report prototype - OK
-b. Multiple users wireframe - ongoing
-c. Multiple users CRUD, with PHP MYSQL
-d. Google Ads API improvements for performance
-e. New architeture in proper MVC framework
+### Collaboration Needed
+a) Experience programmers to improve code and usability
+b) Marketing professionals and researchers to test real use cases
